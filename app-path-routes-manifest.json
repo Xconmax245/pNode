@@ -1,0 +1,12 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/pnodes/[id]/route": "/api/pnodes/[id]",
+  "/api/pnodes/route": "/api/pnodes",
+  "/archives/page": "/archives",
+  "/favicon.ico/route": "/favicon.ico",
+  "/map/page": "/map",
+  "/nodes/[id]/page": "/nodes/[id]",
+  "/nodes/page": "/nodes",
+  "/page": "/"
+}
